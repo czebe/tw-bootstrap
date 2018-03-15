@@ -1,0 +1,11 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Server
+source:           docs
+destination:      _gh_pages
+encoding:         UTF-8
