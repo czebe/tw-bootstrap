@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.sample-container {
+  width: 50%;
+}
